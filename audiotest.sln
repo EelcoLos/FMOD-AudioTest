@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "audiotest", "audiotest.vcproj", "{142872C5-FC6F-4B56-B34E-0F6917ACF721}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A4B5343C-EECD-4D83-AE0B-2D650FF92EF2}"
+	ProjectSection(SolutionItems) = preProject
+		audiotest.vsd = audiotest.vsd
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{142872C5-FC6F-4B56-B34E-0F6917ACF721}.Debug|Default.ActiveCfg = Debug|Win32
+		{142872C5-FC6F-4B56-B34E-0F6917ACF721}.Debug|Default.Build.0 = Debug|Win32
+		{142872C5-FC6F-4B56-B34E-0F6917ACF721}.Release|Default.ActiveCfg = Release|Win32
+		{142872C5-FC6F-4B56-B34E-0F6917ACF721}.Release|Default.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0231A4A7-015D-44BA-B0FA-B375A852B31B}
+	EndGlobalSection
+EndGlobal
